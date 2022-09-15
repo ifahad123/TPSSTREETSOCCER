@@ -1,0 +1,20 @@
+#header {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    width: 1500;
+    height: 705;
+}
+
+body {
+    background-color: rgb(30, 0, 255);
+}
+
+#container {
+    background-image: url(./p.jpg);
+    width: 1500;
+    height: 1000;
+    margin-left: auto;
+    margin-right: auto;
+}
+
